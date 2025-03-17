@@ -8,7 +8,6 @@
 
 
 
-
 """
 * Python farklı platformlarda çalışabilir.
 * İngilizce diline çok yakın olduğundan dolayı dilin öğrenilmesinde sıkıntı çekilmez.
