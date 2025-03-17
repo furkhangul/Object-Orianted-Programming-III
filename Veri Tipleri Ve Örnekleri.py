@@ -9,6 +9,7 @@
 • İkili Türler: bytes, bytearray, memoryview
 """
 
+
 """
 STR Kullanımı:
 """
