@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def matrisolustur():
     matris = np.zeros((3,3))
     for i in range(3):
