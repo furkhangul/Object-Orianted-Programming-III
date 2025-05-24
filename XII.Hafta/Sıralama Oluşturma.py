@@ -1,6 +1,7 @@
 """
 Sonucu artan veya azalan düzende sıralamak için ORDER BY ifadesini kullanın.
 """
+
 import mysql.connector
 sirala = mysql.connector.connect(
     host="localhost",
